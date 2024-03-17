@@ -2,7 +2,7 @@
 
 Developed as the final project for the Introduction to Machine Learning and Data Science course at ArmenianCodeAcademy, this project centers on the predictive analysis of Airbnb listing prices in Sydney, Australia.
 
-## Key Steps:
+# Key Steps:
 
 **Data Collection and Exploration:** 
 We collect data from Airbnb listings in Sydney and explore the dataset to understand its structure, features, and relationships. We analyze correlations between different variables and identify patterns that may influence pricing.
@@ -13,7 +13,7 @@ We preprocess the raw data by handling missing values, encoding categorical vari
 **Model Training and Evaluation:** 
 We train several machine learning models, including linear regression, ridge regression, lasso regression, K-nearest neighbors (KNN), decision trees, and random forests, to predict listing prices. We evaluate the performance of each model using metrics such as mean squared error (MSE), mean absolute error (MAE), and R-squared.
 
-## Contributions:
+# Contributions:
 
 Contributions to the project are welcome! You can contribute by adding new features, improving existing code, fixing bugs, or suggesting enhancements. Please open an issue or pull request with your proposed changes, and we'll review them accordingly.
 
